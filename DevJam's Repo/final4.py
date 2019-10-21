@@ -141,4 +141,4 @@ plt.plot(xnav,ynav,color='red')
 if(k==1):
     plt.plot((xnav[-2],xnav[-1]),(ynav[-2],ynav[-1]),color='green')
 plt.savefig('Path.png')
-plt.close('all')
+#plt.close('all')
