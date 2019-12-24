@@ -1,2 +1,2 @@
 # iGuideU
-iGuideU is a Indoor Navigation System by Squid Squad made during DevJams'19.
+iGuideU is a Indoor Navigation System which works on Dijkstra's algorithm. The project was built by Squid Squad during DevJams'19.
